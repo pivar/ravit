@@ -1,5 +1,5 @@
 {
-  "name": “pivar/ravit”,
+  "name": "pivar/ravit",
   "description": "A Laravel 5 package to create Fractal Transformers",
   "keywords": [
     "metricloop",
@@ -7,7 +7,7 @@
     "transformer",
     "api"
   ],
-  "homepage": "https://github.com/pivar/ravit”,
+  "homepage": "https://github.com/pivar/ravit",
   "license": "MIT",
   "authors": [
     {
