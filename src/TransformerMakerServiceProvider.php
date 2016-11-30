@@ -1,8 +1,8 @@
 <?php
 
-namespace Ravit\Transformermaker;
+namespace Pivar\Ravit;
 use Illuminate\Support\ServiceProvider;
-use Ravit\Transformermaker\Commands\MakeTransformer;
+use Pivar\Ravit\Commands\MakeTransformer;
 use Symfony\Component\Console\Output\ConsoleOutput;
 
 class TransformerMakerServiceProvider extends ServiceProvider

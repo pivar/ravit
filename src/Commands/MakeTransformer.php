@@ -1,6 +1,6 @@
 <?php
 
-namespace Ravit\Transformermaker\Commands;
+namespace Pivar\Ravit\Commands;
 
 use Illuminate\Console\GeneratorCommand;
 
