@@ -1,5 +1,5 @@
 {
-  "name": "ravit/transformermaker",
+  "name": “pivar/ravit”,
   "description": "A Laravel 5 package to create Fractal Transformers",
   "keywords": [
     "metricloop",
@@ -7,7 +7,7 @@
     "transformer",
     "api"
   ],
-  "homepage": "https://github.com/pivar/laravel-transformer-maker",
+  "homepage": "https://github.com/pivar/ravit”,
   "license": "MIT",
   "authors": [
     {
@@ -23,11 +23,6 @@
   },
   "require-dev": {
     "phpunit/phpunit": "^5.5.4"
-  },
-  "autoload": {
-    "psr-4": {
-      "Ravit\\Transformermaker\\": "vendor/ravit/transformermaker/src"
-    }
   },
   "scripts": {
     "test": "vendor/bin/phpunit"
