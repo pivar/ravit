@@ -16,10 +16,6 @@
       "role": "Devel"
     }
   ],
-  "require": {
-    "illuminate/console": "~5.2.0",
-    "illuminate/support": "~5.2.0"
-  },
   "require-dev": {
     "phpunit/phpunit": "^5.5.4"
   },
