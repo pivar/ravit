@@ -2,7 +2,6 @@
   "name": "pivar/ravit",
   "description": "A Laravel 5 package to create Fractal Transformers",
   "keywords": [
-    "metricloop",
     "fractal",
     "transformer",
     "api"
